@@ -27,6 +27,10 @@ Faire le travail pour la région IDF Ouest (Code Agence parmi 110, 130, 135, 150
 
  3.  Ventes pour chaque personne pour chacune de ces agences
  
+ 
+ ## Données
+ 
+ Voir Le fichier excel.  Il contient deux feuilles. Chaque feuille constitue une table de donées.
 
 ## Rendu
 Présenter un script Python permettant d’ouvrir le fichier contenant les données et changer l’entête de colonne « Région » par « Territoire »
